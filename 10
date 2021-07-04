@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 24,
+      "parent_id": 10,
+      "name": "All",
+      "icon": "http://ionicsolutions.in/Gallery/iconsMagical/all.png",
+      "color_code": "#B0141A"
+    },
+    {
+      "id": 25,
+      "parent_id": 10,
+      "name": "Devotional",
+      "icon": "http://ionicsolutions.in/Gallery/iconsMagical/devotional.png",
+      "color_code": "#ECC32D"
+    }
+  ]
+}
