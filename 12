@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "id": 27,
+      "parent_id": 12,
+      "name": "All",
+      "icon": "http://ionicsolutions.in/Gallery/iconsMagical/all.png",
+      "color_code": "#FB4A66"
+    }
+  ]
+}
